@@ -2,7 +2,15 @@
 
 Repository orang yang kurang kerjaan...
 
-# Cron
+# Use
+```
+git clone git@github.com:SunDi3yansyah/bot.git
+```
+
+```
+cd bot && chmod u+x push.sh
+```
+
 ```
 crontab -e
 ```
